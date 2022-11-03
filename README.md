@@ -15,7 +15,7 @@ Mayura_Token is indeed a social token template built on top of ARC20 standard. T
 
 # What does it mean to co-own a community?
 1. Get Community benifits
-2. Co-won benifits of the creator set by policy
+2. Co-own benifits of the creator set by policy
 3. Could possibly co-own the part of creator’s incocome
 
 # How does the algorithm functions for the social token on top of ARC20?
